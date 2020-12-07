@@ -1,0 +1,12 @@
+全恒@Lenovo-PC MINGW64 /d/Git/demo/demo (master)
+$ vim .gitignore
+
+全恒@Lenovo-PC MINGW64 /d/Git/demo/demo (master)
+$ cat .git
+.git/       .gitignore
+
+全恒@Lenovo-PC MINGW64 /d/Git/demo/demo (master)
+$ cat .gitignore
+target/
+*.iml
+.idea/
