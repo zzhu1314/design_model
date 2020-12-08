@@ -3,6 +3,9 @@ package com.design.adapter.test;
 import java.io.IOException;
 import java.util.Properties;
 
+/**
+ * 对象适配器小练习
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         Properties properties = new Properties();
